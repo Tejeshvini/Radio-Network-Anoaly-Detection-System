@@ -4,4 +4,14 @@ This project was started in February 2020 and was completed in October 2020. The
 
 The file 9th September conatins the code for reading, cleaning and exploring the data. It also contains the time series model and model evaluation. The notebook Visualization contains the visualizations of the forecasts and the anomalies. The file Tableau contains the code for combing the forecasted anomalies data along with the geo coordonates in order to build a heatmap on Tabeau.
 
-Few forecasts:
+## Few forecasts:
+
+![Capture](images/Capture.png)
+
+## Railway Track in Pilbara (Western Australia)
+
+![Heatmap](images/Heatmap.png)
+
+## Heatmap of Balise Groups
+
+![heatmap2](images/heatmap2.png)
